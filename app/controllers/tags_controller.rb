@@ -12,7 +12,7 @@ class TagsController < ApplicationController
 
          flash.notice = "Tag #{@tag.name} Deleted!"
         
-        redirect_to tag_path
+        redirect_to tags_path
       end
       
 end
