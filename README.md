@@ -1,24 +1,12 @@
-# README
+# Ruby on Rails Blogger project
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+@TheOdinProject  https://www.theodinproject.com/courses/web-development-101/lessons/ruby-on-rails
 
-Things you may want to cover:
+Tutorial based project
 
-* Ruby version
+- Build blog page using rails.
+- deploy to Heroku https://young-peak-53583.herokuapp.com/articles
 
-* System dependencies
+Although this was a written tutorial led project there were certainly a few challenges mainly in the setup and deployment.  
+I was very happy though on elements which were not fully led to be able to add the requirements, as well as an addition of redirecting to tag list page.
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
